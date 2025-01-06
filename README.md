@@ -12,3 +12,4 @@ platform for programmed self-assembly](https://www.pnas.org/doi/epdf/10.1073/pna
 4. [Programming Interactions in Magnetic Handshake Materials](https://arxiv.org/pdf/2112.02614)
 5. [CDMA](https://en.wikipedia.org/wiki/Code-division_multiple_access)
 6. [Hadamard Codes](http://homepages.math.uic.edu/~leon/mcs425-s08/handouts/Hadamard_codes.pdf)
+7. [Online Convex Optim with Binary Constraints](https://arxiv.org/pdf/2005.02274)
