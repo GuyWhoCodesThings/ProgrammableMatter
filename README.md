@@ -1,4 +1,4 @@
-# Programmabl Matter
+# Programmable Matter
 repo to keep track of my research regarding selective encodings @ Programmable Matter Lab.
 
 ## Link to Colab Notebooks
